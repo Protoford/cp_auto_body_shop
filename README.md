@@ -2,6 +2,7 @@
 FiveM GTA V Auto Body Shop
 -- Based on es_carwash by 'EssentialMode 5 CarWash by TheSpartaPT.' --
 # FiveM [EssentialMode] Auto BodyShop
+Pull in to one of several Body Shop locations on the map, drive in, hit enter to repair auto body damage.
 
 ### Optional Dependencies
 
