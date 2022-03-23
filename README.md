@@ -12,7 +12,7 @@ Pull in to one of several Body Shop locations on the map, drive in, hit enter to
 
 >1- Drag and Drop the cp_auto_body_shop folder into the resources/[local] folder;
 >
->2- add this line "ensure cp_auto_body_shop on server.cfg" near the end of your start and ensure lists.
+>2- add this line "ensure cp_auto_body_shop" in server.cfg near the end of your start and ensure lists.
 
 **Extremelly important: if you're using EssentialMode step 2 needs to be bellow the "start essentialmode" line so the dependencies load first.**
 
@@ -22,6 +22,6 @@ If you wish to make the repairs free open "cp_auto_body_server.lua" and edit the
 
 ![Full size preview](http://image.prntscr.com/image/dd5dda7bfd3e4eca85f1674f20f67128.png)
 
-If you wish to edit how much money is spent to wash the car open "cp_auto_body_server.lua" and edit the value on the variable "price" to whatever number you want:
+If you wish to edit how much money is spent to repair the car open "cp_auto_body_server.lua" and edit the value on the variable "price" to whatever number you want:
 
 ![Full size preview](http://image.prntscr.com/image/ad28c233917a432e901c828ecfde6b10.png)
